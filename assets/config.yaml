@@ -6,5 +6,5 @@ webrtc:
       - url: turn:homeo@turn.bistri.com:80
         credential: homeo
 password: 
-  pass:password
+  pass: password
 dice: #未使用
