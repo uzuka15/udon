@@ -5,6 +5,6 @@ webrtc:
       - url: stun:stun.skyway.io:3478
       - url: turn:homeo@turn.bistri.com:80
         credential: homeo
-password:
+password: 
   pass:password
 dice: #未使用
